@@ -1,5 +1,7 @@
 # ffmpeg_xcode
-##借鉴别人的思路，整理，优化后在xcode下调试ffmpeg源码的例子
+
+借鉴别人的思路，整理，优化后在xcode下调试ffmpeg源码的例子<br>
+
 a xcode project for ffmpeg break point debug, based on ffmpeg 3.4.1 
 this project is useful if you want to deep into ffmpeg source code.
 
